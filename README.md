@@ -2,6 +2,8 @@
 
 Deliverable Verifier is a GenLayer Intelligent Contract that turns a plain-English brief and a public deliverable URL into an auditable, consensus-backed acceptance decision.
 
+Repository: https://github.com/ShalyX/genlayer-deliverable-verifier
+
 It is designed as the first contribution for the GenLayer Builder program: small enough to submit as an Intelligent Contract, but useful enough to grow into agent bounties, escrow, and reputation workflows.
 
 ## Why GenLayer
