@@ -83,4 +83,4 @@ npm run dev
 
 ## Contribution packaging
 
-See [`SUBMISSION.md`](SUBMISSION.md) for the Builder submission checklist and the evidence we should attach after deployment.
+Submission notes are maintained separately from this public repository.
